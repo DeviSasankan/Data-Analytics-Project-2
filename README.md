@@ -9,6 +9,14 @@ This project analyzes a fictional 6-month retail sales dataset (Customers, Order
 
 The study combines SQL queries, data cleaning, and profitability analysis to provide data-driven insights into the effectiveness of discounts across markets and products.
 
+## Dataset
+-	Dataset: <a href="https://github.com/DeviSasankan/Data-Analytics-Project-2/blob/93ab1e36f1c98e5850667733b9bb859705f65802/Dataset.xlsx"> Dataset </a>
+
+## Tools & Technologies
+-	SQL → Data cleaning, Querying & segmentation
+-	Excel → Initial exploration
+-	Power BI → Dashboards
+  
 ## Part A: Data Examination & Cleaning
 ### Steps Taken & Rationale
 #### 1.	Check for NULLs in Key Fields
@@ -104,10 +112,7 @@ The study combines SQL queries, data cleaning, and profitability analysis to pro
 -	12+ months of sales (to capture seasonality).
 -	Customer tenure & lifetime value.
 -	Competitor discounting patterns.
-## Tools & Technologies
--	SQL → Data cleaning, Querying & segmentation
--	Excel → Initial exploration
--	Power BI → Dashboards
+
 ## Key Takeaways
 -	Discounts strongly influence EU & UK markets, less so in the US.
 -	Dalmore 12yo and Caol Ila 12yo demonstrate discount-driven profitability.
