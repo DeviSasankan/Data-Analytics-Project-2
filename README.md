@@ -124,6 +124,20 @@ The study combines SQL queries, data cleaning, and profitability analysis to pro
 -	Dalmore 12yo and Caol Ila 12yo demonstrate discount-driven profitability.
 -	Poor ROI on heavily discounted products (Lagavulin, Glenfiddich) → need pricing revision.
 -	Balanced, market-specific discounting outperforms blanket strategies.
+## Dashboard
+<img width="940" height="525" alt="image" src="https://github.com/user-attachments/assets/f1f90d6b-6d4a-4691-8fb5-4d491f4f2690" />
 
 
 
+-
+<img width="940" height="521" alt="image" src="https://github.com/user-attachments/assets/a97909e0-1e86-4b09-9f15-edcfc1ba5737" />
+
+
+
+-
+<img width="940" height="520" alt="image" src="https://github.com/user-attachments/assets/2d4625c7-1518-4778-a044-6e3e92567cef" />
+
+
+
+-
+<img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/059c19c3-2ec9-41ad-9c65-54aa90ab8890" />
