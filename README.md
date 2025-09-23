@@ -46,9 +46,13 @@ The study combines SQL queries, data cleaning, and profitability analysis to pro
 -	EU: most discount-sensitive (51.8%).
 -	UK: nearly identical responsiveness (51.7%) but with the largest absolute discount sales (£155,859).
 -	US: least responsive (34.5%), despite a large customer base.
+<img width="381" height="331" alt="image" src="https://github.com/user-attachments/assets/4aceb7a6-9c97-4cdd-a2e7-eec393e70d10" />
+
 #### Customer Behavior
 -	Over 50% of customers in EU, UK, and Asia buy only discounted products.
 -	ROW & US: more price-insensitive shoppers (36–40% only-discount buyers).
+<img width="494" height="333" alt="image" src="https://github.com/user-attachments/assets/82127484-40a0-48b5-89e8-278c25028644" />
+  
 #### Sales Impact
 -	Discounts account for ~45–52% of sales in most regions.
 -	US lags, with just 29% of sales discount-driven.
@@ -79,6 +83,7 @@ The study combines SQL queries, data cleaning, and profitability analysis to pro
 #### Lagavulin 16yo → Weak performer
 -	GPM: 3.86% despite 10.12% discount.
 -	Insight: Discounts not translating to profit → poor ROI.
+<img width="688" height="531" alt="image" src="https://github.com/user-attachments/assets/c6c4a108-7797-4f76-bd7c-068741928574" />
 
 ## Part D: Recommendations
 #### 1. Market-Specific Discount Strategies
@@ -103,6 +108,7 @@ The study combines SQL queries, data cleaning, and profitability analysis to pro
 -	Pilot launches in UK (high discount-driven sales).
 -	Extend EU strategies to ROW.
 -	Create US-specific bundles without heavy discounting.
+<img width="754" height="244" alt="image" src="https://github.com/user-attachments/assets/ee73f340-2d3b-46de-b69a-41cc4e70518d" />
 
 ## Limitations of the Dataset
 -	Covers only 6 months → misses seasonal effects (e.g., holidays, Black Friday).
